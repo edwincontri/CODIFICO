@@ -1,0 +1,47 @@
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\bin\Debug\net8.0\appsettings.json
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\bin\Debug\net8.0\Sales Date Prediction.exe
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\bin\Debug\net8.0\Sales Date Prediction.deps.json
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\bin\Debug\net8.0\Sales Date Prediction.runtimeconfig.json
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\bin\Debug\net8.0\Sales Date Prediction.dll
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\bin\Debug\net8.0\Sales Date Prediction.pdb
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\bin\Debug\net8.0\Dapper.dll
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\obj\Debug\net8.0\Sales Date Prediction.csproj.AssemblyReference.cache
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\obj\Debug\net8.0\Sales Date Prediction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\obj\Debug\net8.0\Sales Date Prediction.AssemblyInfoInputs.cache
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\obj\Debug\net8.0\Sales Date Prediction.AssemblyInfo.cs
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\obj\Debug\net8.0\Sales Date Prediction.csproj.CoreCompileInputs.cache
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\obj\Debug\net8.0\Sales Date Prediction.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\obj\Debug\net8.0\Sales Date Prediction.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\obj\Debug\net8.0\staticwebassets\msbuild.Sales Date Prediction.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\obj\Debug\net8.0\staticwebassets\msbuild.build.Sales Date Prediction.props
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Sales Date Prediction.props
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Sales Date Prediction.props
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\obj\Debug\net8.0\scopedcss\bundle\Sales Date Prediction.styles.css
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\obj\Debug\net8.0\Sales Da.4D803B35.Up2Date
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\obj\Debug\net8.0\Sales Date Prediction.dll
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\obj\Debug\net8.0\refint\Sales Date Prediction.dll
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\obj\Debug\net8.0\Sales Date Prediction.pdb
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\obj\Debug\net8.0\Sales Date Prediction.genruntimeconfig.cache
+C:\Users\edwin.contreras\Documents\Codifico\SalesDatePrediction\Sales Date Prediction\obj\Debug\net8.0\ref\Sales Date Prediction.dll

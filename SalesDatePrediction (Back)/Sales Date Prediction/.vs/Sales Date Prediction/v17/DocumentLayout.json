@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edwin.contreras\\Documents\\Codifico\\SalesDatePrediction\\Sales Date Prediction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDF7D7F-4342-4AC0-9A3C-518D18FA7507}|Sales Date Prediction.csproj|c:\\users\\edwin.contreras\\documents\\codifico\\salesdateprediction\\sales date prediction\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FDF7D7F-4342-4AC0-9A3C-518D18FA7507}|Sales Date Prediction.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\edwin.contreras\\Documents\\Codifico\\SalesDatePrediction\\Sales Date Prediction\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\edwin.contreras\\Documents\\Codifico\\SalesDatePrediction\\Sales Date Prediction\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAEwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T16:29:18.309Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
