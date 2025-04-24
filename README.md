@@ -1,6 +1,8 @@
 # CODIFICO
 StoreSample
 
+(En caso de inconvenientes con la carpeta Front, se comprimieron los proyectos en CODIFICO.rar)
+
 .NET Core
 Cadena de coneccion a base de datos en "CODIFICO\SalesDatePrediction\Sales Date Prediction/appsettings.json"
 Puerto configurado proyecto "https://localhost:7049" (Abre Swagger automaticamente)
