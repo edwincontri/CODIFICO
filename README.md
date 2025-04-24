@@ -8,7 +8,14 @@ API Rest, Arquitectura en capas, inyeccion de dependencias, principios SOLID
 
 Angular 17
 Angular Material
-"https://localhost:4200" 
+"https://localhost:4200"
+
+```bash
+Clonar el repositorio:
+- git clone https://github.com/edwincontri/CODIFICO.git
+
+Instala las dependencias: (se elimino carpeta "node_modules" por peso del proyecto en Angular)
+- npm install
 
 - Levantar la API (backend) 
 Se ejecuta el proyecto de backend desarrollado en .NET Core. 
